@@ -1,0 +1,14 @@
+# LangChain Core
+langchain 
+langchain-core 
+
+# Google Gemini Integration 
+langchain-google-genai 
+google-generativeai
+
+
+# Envrironment Variables Management 
+python-dotenv 
+
+# Embeddings Model 
+langchain-huggingface
