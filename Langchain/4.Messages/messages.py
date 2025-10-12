@@ -25,15 +25,4 @@ print(messages[2].content)
 
 
 
-# Creating a simple chatbot
-# chat_history=[]
-# while True:
-#     user_input=input('User:')
-#     chat_history.append(user_input)
-#     if user_input=='exit':
-#         break
-#     result=model.invoke(chat_history)
-#     chat_history.append(result.content)
-#     print(f'AI:{result.content}')
 
-# print(chat_history)
